@@ -1,5 +1,10 @@
 # Python-Programming-Notes
 
+### Dynamic Programming
+#### 가장 긴 증가하는 부분 수열 (LIS, Longest Increasing Subsequence)
+- 부분 수열: 어떤 수열에서 일부 숫자를 지워 만들 수 있는 새로운 수열
+- 증가하는 부분 수열: 부분 수열 중 오름차순인 것. 그 중 가장 길이가 긴 수열을 LIS라고 한다
+
 ### Shortest Path: 최단 경로 찾기
 #### 다익스트라 알고리즘 (Dijkstra algorithm)
 - 특정한 노드에서 출발하여 다른 노드로 가는 각각의 최단 경로를 구한다
