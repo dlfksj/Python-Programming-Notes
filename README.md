@@ -1,6 +1,14 @@
 # Python-Programming-Notes
 
 ## Searching
+#### 깊이 우선 탐색 (DFS, Depth-First Search)
+- 그래프에서 깊은 부분을 우선적으로 탐색
+- 데이터 수가 N개이면 O(N) 시간 소요
+
+#### 너비 우선 탐색 (BFS, Breadth Fisrt Search)
+- 가까운 노드부터 탐색하는 알고리즘
+- 탐색 노드와 인접한 노드를 반복적으로 큐에 넣어 작성
+
 #### 이진 탐색 (Binary Search)
 - 배열 내 데이터가 정렬되어 있어야만 사용 가능
 - 찾으려는 데이터와 중간점 위치에 있는 데이터를 반복적으로 비교해서 찾는다
