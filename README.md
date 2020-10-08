@@ -1,5 +1,10 @@
 # Python-Programming-Notes
 
+## Searching
+#### 이진 탐색 (Binary Search)
+- 배열 내 데이터가 정렬되어 있어야만 사용 가능
+- 찾으려는 데이터와 중간점 위치에 있는 데이터를 반복적으로 비교해서 찾는다
+
 ## Dynamic Programming
 #### 가장 긴 증가하는 부분 수열 (LIS, Longest Increasing Subsequence)
 - 부분 수열: 어떤 수열에서 일부 숫자를 지워 만들 수 있는 새로운 수열
